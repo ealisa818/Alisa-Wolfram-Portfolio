@@ -4,7 +4,7 @@ import React from 'react';
 export default function About() {
     return (
         <div>
-            <img id="profile_pic" src={ProfilePic} alt="Alisa Wolfram" />
+            {/* <img id="ProfilePic" src={ProfilePic} alt="Alisa Wolfram" /> */}
 
             <div className='about-me'>
 

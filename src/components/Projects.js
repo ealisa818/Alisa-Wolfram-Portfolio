@@ -1,3 +1,6 @@
-import { component } from 'react'
-
+import React from 'react';
+function Projects (){
+    return (
+    <div></div>
+    )
 export default Project;
