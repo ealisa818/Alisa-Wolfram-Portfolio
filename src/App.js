@@ -2,10 +2,12 @@ import React from 'react';
 import About from './components/About';
 import Header from './components/Header';
 import Projects from './components/Projects';
+import './index.css';
+
+
 // import Skills from './components/Skills'
-// import Projects from './components/Projects';
 // import Footer from './components/Footer';
-// import './assets/styles.css';
+import './index.css';
 
 export default function App() {
   return (
@@ -14,7 +16,7 @@ export default function App() {
       <About />
       <Projects />
       {/* <Skills />
-      <Projects />
+
       <Footer /> */}
     </div>
   );
